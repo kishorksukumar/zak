@@ -9,15 +9,15 @@ div.jumbotron.carousel-hero {
 }
 
 div.jumbotron.hero-nature {
-  background-image: url('../../assets/img/wall.jpg');
+  background-image: url('../../assets/img/Screenshot%202021-02-17%20194330.jpg');
 }
 
 div.jumbotron.hero-photography {
-  background-image: url('../../assets/img/wall.jpg');
+  background-image: url('../../assets/img/Screenshot%202021-02-17%20194403.jpg');
 }
 
 div.jumbotron.hero-technology {
-  background-image: url('../../assets/img/wall.jpg');
+  background-image: url('../../assets/img/Screenshot%202021-02-17%20194209.jpg');
 }
 
 h1.hero-title, h2.hero-title, h3.hero-title {
@@ -42,13 +42,13 @@ p.hero-subtitle {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #016090;
+  background-color: #71eeff;
   border-color: #016090;
 }
 
 .btn.btn-primary {
-  background-color: #e72529!important;
-  border-color: #e52529!important;
+  background-color: #3b43ff!important;
+  border-color: #3b43ff!important;
 }
 
 .btn-primary.focus, .btn-primary:focus {

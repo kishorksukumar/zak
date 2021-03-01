@@ -1,0 +1,155 @@
+@media (max-width: 414px) {
+  .section-clients {
+    min-height: 300px !important;
+  }
+}
+
+@media (min-width:768px) {
+  .col-md-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333% !important;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: 0;
+  margin-left: 0;
+  padding-left: 0px;
+}
+
+.client1Link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  color: rgb(0,0,0);
+}
+
+.client1Link:hover {
+}
+
+@media (min-width: 300px) {
+  .right-client-box {
+    border-left: solid 1px #b8b8b8;
+    border-bottom: solid 1px #b8b8b8;
+  }
+}
+
+.left-client-box {
+  border-right: solid 1px #b8b8b8;
+  border-bottom: solid 1px #b8b8b8;
+}
+
+.client-box-end {
+  border-right: solid 1px #b8b8b8;
+}
+
+.client-box-end-right {
+  border-left: solid 1px #b8b8b8;
+}
+
+.center-client-box {
+  border-bottom: solid 1px #b8b8b8;
+}
+
+@media (max-width: 414px) {
+  .client-height-mobile {
+    max-height: 100px !important;
+  }
+}
+
+.clients2 {
+  /*width: 100%;*/
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/
+  /*padding-left: 5%;*/
+  /*padding-right: 5%;*/
+}
+
+.container {
+  max-width: 1200px !important;
+}
+
+.row {
+  display: -webkit-box;
+  /*display: -ms-flexbox;*/
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: 0;
+  margin-left: 0;
+  /*padding-left: 0px;*/
+}
+
+@media (min-width:768px) {
+  .col-md-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333% !important;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: 0;
+  margin-left: 0;
+  padding-left: 0px;
+}
+
+.box {
+  color: #000000 !important;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+@media (min-width: 1200px) {
+  .box {
+    color: #000000 !important;
+    font-size: 54px !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .box {
+    color: #000000 !important;
+    font-size: 4.5vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .box {
+    color: #000000 !important;
+    font-size: 4vw;
+  }
+}
+
+@media (min-width: 576px) {
+  .box {
+    color: #000000 !important;
+    font-size: 3vw;
+  }
+}
+
+@media (min-width: 360px) {
+  .box {
+    color: #000000 !important;
+    font-size: 3.5vw;
+  }
+}
+
+.client-block {
+  padding: 20px;
+}
+
